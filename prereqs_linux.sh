@@ -2,7 +2,7 @@
 
 BAZELISK_VERSION=v1.8.1
 BAZELISK_BINARY=bazelisk-linux-amd64
-BAZELISK_DOWNLOAD_URL=https://github.com/bazelbuild/bazelisk/releases/download/
+BAZELISK_DOWNLOAD_URL=https://github.com/bazelbuild/bazelisk/releases/download/v1.17.0/bazelisk-linux-amd64
 
 # checking for g++
 dpkg -s g++ &> /dev/null
